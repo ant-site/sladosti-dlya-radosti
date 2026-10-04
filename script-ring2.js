@@ -8,14 +8,14 @@
 
   // Какие десерты на гранях. fx/fy - куда смотрит кадр (0..1), чтобы попал сам десерт.
   const SLIDES = [
-    { src: "images/korp-apple.jpg" },
-    { src: "images/bento.jpg", fx: 0.82, fy: 0.22 },
-    { src: "images/korp-cherry.jpg" },
-    { src: "images/roll-biscuit.jpg", fx: 0.4, fy: 0.55 },
-    { src: "images/korp-coffee.jpg", fx: 0.4, fy: 0.25 },
-    { src: "images/roll-meringue.jpg", fx: 0.4, fy: 0.35 },
-    { src: "images/korp-sugarfree.jpg" },
-    { src: "images/korp-apple-classic.jpg" },
+    { src: "assets/korp-apple.jpg" },
+    { src: "assets/bento.jpg", fx: 0.82, fy: 0.22 },
+    { src: "assets/korp-cherry.jpg" },
+    { src: "assets/roll-biscuit.jpg", fx: 0.4, fy: 0.55 },
+    { src: "assets/korp-coffee.jpg", fx: 0.4, fy: 0.25 },
+    { src: "assets/roll-meringue.jpg", fx: 0.4, fy: 0.35 },
+    { src: "assets/korp-sugarfree.jpg" },
+    { src: "assets/korp-apple-classic.jpg" },
   ];
 
   let renderer;

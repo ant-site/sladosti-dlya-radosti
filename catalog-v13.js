@@ -10,22 +10,22 @@ window.CATALOG = [
     allergens: "Без глютена, без сахара, без лактозы, без орехов и миндаля. Содержит яйца (белок или целое яйцо - зависит от партии).", needsReview: false,
   },
   {
-    id: "korp-classic", image: "images/korp-apple.jpg", ownPhoto: true,
+    id: "korp-classic", image: "assets/korp-apple.jpg", ownPhoto: true,
     name: "Корпусное пирожное Классика", description: "Классический вариант", price: 400, unit: "шт",
     allergens: "Содержит: глютен (пшеница), яйца, молочные продукты.", needsReview: false,
   },
   {
-    id: "bento", image: "images/bento.jpg", ownPhoto: true,
+    id: "bento", image: "assets/bento.jpg", ownPhoto: true,
     name: "Бенто-торт", description: "Небольшой торт", price: 1900, unit: "шт",
     allergens: "Содержит: глютен (пшеница), яйца, молочные продукты.", needsReview: false,
   },
   {
-    id: "roll-biscuit", image: "images/roll-biscuit-real.jpg", ownPhoto: true,
+    id: "roll-biscuit", image: "assets/roll-biscuit-real.jpg", ownPhoto: true,
     name: "Рулет бисквитный", description: "Цена за 1 кг", price: 2300, unit: "кг",
     allergens: "Содержит: глютен (пшеница), яйца, молочные продукты.", needsReview: false,
   },
   {
-    id: "roll-meringue", image: "images/stock-roll-meringue.jpg", ownPhoto: false,
+    id: "roll-meringue", image: "assets/stock-roll-meringue.jpg", ownPhoto: false,
     name: "Рулет меринговый", description: "Цена за 1 кг", price: 2700, unit: "кг",
     allergens: "Содержит: яичный белок, молочные продукты.", needsReview: false,
   },
