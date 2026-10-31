@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-31 16:00">
+<shop>
+<name>Сладости для радости</name>
+<company>Сладости для радости</company>
+<url>https://vk.ru/club241709593</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="10">Корпусные пирожные</category>
+<category id="20">Рулеты</category>
+<category id="30">Торты</category>
+</categories>
+<offers>
+<offer id="1" available="true">
+<name>Корпусное пирожное ПП</name>
+<price>500</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<picture>https://ant-site.github.io/sladosti-dlya-radosti/vk-cards/1-korpusnoe-pp.jpg</picture>
+<description><![CDATA[Порционные пирожные ручной работы для тех, кто следит за сладким. Без глютена, без сахара, без лактозы, без орехов и миндаля.
+Содержит яйца (белок или целое яйцо - зависит от партии).
+
+Как заказать: набор от 6 штук. Минимальный заказ - 2500 р, заказ за 3-5 дней до даты, предоплата 50%, самовывоз в Полярных Зорях.
+Напишите дату и сколько штук нужно - посчитаю за 30 минут.]]></description>
+</offer>
+<offer id="2" available="true">
+<name>Корпусное пирожное Классика</name>
+<price>400</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<picture>https://ant-site.github.io/sladosti-dlya-radosti/vk-cards/2-korpusnoe-klassika.jpg</picture>
+<description><![CDATA[Порционные пирожные ручной работы в классическом исполнении. Красивые, аккуратные, хорошо подходят к чаю, на день рождения и в подарок.
+Содержит: глютен (пшеница), яйца, молочные продукты.
+
+Как заказать: набор от 6 штук. Минимальный заказ - 2500 р, заказ за 3-5 дней до даты, предоплата 50%, самовывоз в Полярных Зорях.
+Напишите дату и сколько штук нужно - посчитаю за 30 минут.]]></description>
+</offer>
+<offer id="3" available="true">
+<name>Бенто-торт</name>
+<price>1900</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>https://ant-site.github.io/sladosti-dlya-radosti/vk-cards/3-bento-tort.jpg</picture>
+<description><![CDATA[Небольшой торт в формате бенто, с надписью или маленьким декором. Хороший подарок на день рождения или просто так.
+Содержит: глютен (пшеница), яйца, молочные продукты.
+
+Как заказать: минимальный заказ - 2500 р, поэтому бенто удобно брать вместе с несколькими пирожными или рулетом. Заказ за 3-5 дней до даты, предоплата 50%, самовывоз.
+Напишите, на какую дату и какую надпись хотите.]]></description>
+</offer>
+<offer id="4" available="true">
+<name>Рулет бисквитный</name>
+<price>2300</price>
+<currencyId>RUR</currencyId>
+<categoryId>20</categoryId>
+<picture>https://ant-site.github.io/sladosti-dlya-radosti/vk-cards/4-rulet-biskvitnyj.jpg</picture>
+<description><![CDATA[Мягкий бисквит и нежный крем, сверху ягоды. Подойдёт к чаю на семейный вечер.
+Цена указана за 1 кг.
+Содержит: глютен (пшеница), яйца, молочные продукты.
+
+Как заказать: рулет можно добавить к набору пирожных, чтобы выйти на минимальный заказ 2500 р. Заказ за 3-5 дней до даты, предоплата 50%, самовывоз.]]></description>
+</offer>
+<offer id="5" available="true">
+<name>Рулет меринговый</name>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<categoryId>20</categoryId>
+<picture>https://ant-site.github.io/sladosti-dlya-radosti/vk-cards/5-rulet-merengovyj.jpg</picture>
+<description><![CDATA[Воздушная меренга, нежный крем и ягоды. Эффектно смотрится на праздничном столе.
+Цена указана за 1 кг.
+Содержит: яичный белок, молочные продукты.
+
+Как заказать: минимальный заказ - 2500 р, заказ за 3-5 дней до даты, предоплата 50%, самовывоз. Рулет можно добавить к набору пирожных.]]></description>
+</offer>
+<offer id="6" available="true">
+<name>Торт на заказ</name>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>https://ant-site.github.io/sladosti-dlya-radosti/vk-cards/6-tort-elochka.jpg</picture>
+<description><![CDATA[Торт к дню рождения, юбилею или празднику. Вы рассказываете повод и пожелания, я предлагаю вкус и оформление, мы согласуем эскиз, потом я пеку. На фото - меренговый торт «Ёлочка» к Новому году.
+Цена от 2900 р за 1 кг, точную стоимость называю после обсуждения дизайна.
+Состав и аллергены пришлю в сообщении, когда определимся со вкусом.
+
+Как заказать: напишите дату, количество гостей и пожелания. Заказ за 5-7 дней до даты, минимальный заказ - 2500 р, предоплата 50%, самовывоз в Полярных Зорях.]]></description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
